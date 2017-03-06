@@ -1,0 +1,10 @@
+<?php
+
+
+
+define('provider',"etisalat");
+
+
+
+ 
+ 
